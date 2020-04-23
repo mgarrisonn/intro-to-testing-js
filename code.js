@@ -1,4 +1,15 @@
 // helloWorld function 
-function helloWorld() {
+const  helloWorld = function() {
     return "Hello, World!";
 }
+function sayHello() {
+
+}
+// isNumeric function
+// function isNumeric(input) {
+//     if (isNaN(input)) {
+//         return false;
+//     } else {
+//         return true;
+//     }
+// }
